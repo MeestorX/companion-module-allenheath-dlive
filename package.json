@@ -1,0 +1,16 @@
+{
+	"name": "allenheath-dlive",
+	"version": "1.3.4",
+	"api_version": "1.0.0",
+	"keywords": ["dLive","ilive","qu"],
+	"manufacturer": "Allen & Heath",
+	"product": ["dLive","ilive","qu"],
+	"shortname": "dLive-ilive-qu",
+	"description": "dLive, iLive & qu module for Companion",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Andrew Broughton <andy@checkcheckonetwo.com>",
+	"license": "MIT"
+}
